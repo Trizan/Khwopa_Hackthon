@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+mysql.connector
+numpy
+cython
+scikit-learn
+scikit-image
